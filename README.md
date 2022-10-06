@@ -379,4 +379,5 @@ The opcode `nop` doesn't do anything.
 
 **Repo:**
 
--   GitHub repository: `monty`
+-   GitHub repository: `monty
+Inorder to butress on stack and queue, they are linear data structure that follows the rule of LIFO and FIFO respectively, which are implemented statically and dynamically.`
