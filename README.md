@@ -3,6 +3,9 @@
 
 -   By Julien Barbier
 
+![image](https://github.com/user-attachments/assets/9d2aab33-5edf-44bc-bdc0-14b2484d491f)
+
+
 Resources
 ---------
 
@@ -10,6 +13,9 @@ Resources
 
 -   [Google](https://alx-intranet.hbtn.io/rltoken/tn1X658KGumYYq_szFJI5w "Google")
 -   [How do I use extern to share variables between source files in C?](https://alx-intranet.hbtn.io/rltoken/0KVWTdE8xXy__jUfBfakCw "How do I use extern to share variables between source files in C?")
+-   [Stacks and Queues in C](https://intranet.alxswe.com/rltoken/udmomL4F4mF630D2Z-ltqg)
+-   [Stack operations](https://intranet.alxswe.com/rltoken/fj_-SJXW-pWxgAnstsARoQ)
+-   [Queue operations](https://intranet.alxswe.com/rltoken/6Y_GVoIH_rV45xd7w0a9FA)
 
 Learning Objectives
 -------------------
