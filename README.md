@@ -442,7 +442,7 @@ The opcode `div` divides the second top element of the stack by the top element 
 -   GitHub repository: `monty`
 
 
-###8\. mul
+### 8\. mul
 Implement the `mul` opcode.
 
 **The mul opcode**
@@ -479,7 +479,7 @@ The opcode `mod` computes the rest of the division of the second top element of 
 -   GitHub repository: `monty`
 
 
-###10\. comments
+### 10\. comments
 
 Every good language comes with the capability of commenting. When the first non-space character of a line is `#`, treat this line as a comment (don’t do anything).
 
@@ -612,7 +612,7 @@ julien@ubuntu:~/monty$
 -   GitHub repository: `monty`
 
 
-14. rotr
+### 14. rotr
 Implement the `rotr` opcode.
 
 **The rotr opcode**
@@ -730,11 +730,6 @@ julien@ubuntu:~/monty/bf$ bf ./1001-add.bf
 -   GitHub repository: `monty`
 -   Directory: `bf`
 -   File: `1002-mul.bf`
-
-**Repo:**
-
--   GitHub repository: `monty`
-
 
 ### 19\. Multiplication level up
 
